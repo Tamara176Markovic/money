@@ -1,0 +1,15 @@
+body{
+	font-family: 'Lato', sans-serif;
+	text-rendering: optimizeLegibility;
+    box-sizing: border-box;
+}
+/* .jumbotron{
+	background-repeat: repeat;
+	height: 1500px;
+	background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url(https://t4.ftcdn.net/jpg/02/06/75/63/500_F_206756312_RxzqvoH4w6Y6CwT4NiFKBHNaifcNnYs5.jpg);
+	background-size: cover;
+} */
+#chartDivLeft{
+	width: auto; 
+	height: auto;
+}
